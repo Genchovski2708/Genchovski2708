@@ -1,4 +1,4 @@
-# Hi there, I'm Blank! 👋
+# Hi there, I'm Andrej Genchovski! 👋
 
 ## 🚀 About Me
 I'm a Software Engineering student at **FCSE - Skopje**, passionate about building robust and scalable applications. I specialize in **Full Stack Development** and enjoy working on challenging projects that push my skills to the next level.
