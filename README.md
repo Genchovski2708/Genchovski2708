@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Blank! 👋
 
-<!--
-**Genchovski2708/Genchovski2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Software Engineering student at **FCSE - Skopje**, passionate about building robust and scalable applications. I specialize in **Full Stack Development** and enjoy working on challenging projects that push my skills to the next level.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+### Backend:
+- Spring Boot
+- Django
+- Laravel
+- ASP.NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend:
+- React
+- JavaScript
+- HTML5 & CSS
+
+### Database:
+- PostgreSQL
+- MySQL
+
+### DevOps:
+- Linux
+- Docker
+- Git
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/andrej-genchovski-334392272/)
+- 📧 Email: genchovskiandrej@gmail.com
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Genchovski2708&show_icons=true&theme=radical)
+
+---
+Feel free to connect and collaborate on interesting projects! 🚀
+
